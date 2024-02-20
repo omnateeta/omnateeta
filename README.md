@@ -1,5 +1,6 @@
-# 💫 About Me:
--I'm currently learning programming languages <br>-video creator<br>
+💫 About Me:
+-I'm currently learning programming languages <br>
+ -Engineering student <br>video creator<br>
 
 
 ## 🌐 Socials:
@@ -13,10 +14,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=omnateeta&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=omnateeta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=omnateeta&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-profile-trophy.vercel.app/?username=omnateeta&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=omnateeta&icon=1&color=3)](https://visitcount.itsvg.in)
