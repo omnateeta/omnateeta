@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am student <br>video creator<br>
+-I'm currently learning programming languages <br>-video creator<br>
 
 
 ## 🌐 Socials:
