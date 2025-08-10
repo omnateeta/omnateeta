@@ -12,6 +12,7 @@
 omnateeta/omnateeta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![](https://visitcount.itsvg.in/api?id=omnateeta&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
 👋 Hi,I'm Omnateeta V U .<br>👀 Interested in Full stack web development streem...<br>🌱 I’m currently pursuing my 2nd Year BE.<br>💞️ And looking to collaborate on web development projects..<br>⚡ Fun fact is: Nothing ... <h3>Trying to becoming- BEST VERSION OF MYSELF</h3>
 ✨ special  ✨
