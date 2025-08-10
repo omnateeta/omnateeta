@@ -12,7 +12,7 @@
 omnateeta/omnateeta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=omnateeta&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 # 💫 About Me:
