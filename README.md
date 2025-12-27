@@ -1,6 +1,6 @@
 <!--- 👋 Hi,I'm Omnateeta V U .   
 - 👀 Interested in Full stack web development streem...  
-- 🌱 I’m currently  pursuing my 2nd Year BE.    
+- 🌱 I’m currently  pursuing my 2nd Year BE.
 - 💞️ And looking to collaborate on web development projects...
 - 📫 How to reach me : omnateeta3@gmail.com 
 -   Check out My linkden profile:www.linkedin.com/in/omnateeta-v-unnimath-0b815b338
