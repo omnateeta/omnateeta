@@ -7,11 +7,6 @@
 -  This is my Youtube channel: https://www.youtube.com/@Mr.omnateeta....
 - ⚡ Fun fact is: Nothing ...         
  <h3>Trying to becoming- BEST VERSION OF MYSELF</h3>
-✨ special  ✨ --->
-<!---
-omnateeta/omnateeta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omnateeta&label=Profile%20views&color=0e75b6&style=flat" alt="omnateeta" /> </p>
 # 💫 About Me:
 👋 Hi,I'm Omnateeta V U .<br>👀 Interested in Full stack web development streem...<br>🌱 I’m currently pursuing my 2nd Year BE.<br>💞️ And looking to collaborate on web development projects..<br>⚡ Fun fact is: Nothing ... <h3>Trying to becoming- BEST VERSION OF MYSELF</h3>
