@@ -11,7 +11,11 @@
 # 💫 About Me:
 👋 Hi,I'm Omnateeta V U .<br>👀 Interested in Full stack web development streem...<br>🌱 I’m currently pursuing my 2nd Year BE.<br>💞️ And looking to collaborate on web development projects..<br>⚡ Fun fact is: Nothing ... <h3>Trying to becoming- BEST VERSION OF MYSELF</h3>
 ✨ special  ✨
-
+✨ special  ✨ --->
+<!---
+omnateeta/omnateeta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->  
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/omnateeta_88289) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_omnateeta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/omnateeta-v-unnimath-0b815b338) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@Mr.omnateeta) 
