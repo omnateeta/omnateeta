@@ -11,7 +11,7 @@
 - YouTube: https://www.youtube.com/@Mr.omnateeta  
 - Instagram: https://instagram.com/mr_omnateeta  
 
-<h3 align="left">✨ Trying to Become the BEST VERSION OF MYSELF ✨</h3>
+<h3 align="left">✨ Trying to Become the BEST VERSION OF MYSELF ✨..</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=omnateeta&label=Profile%20Views&color=0e75b6&style=flat" alt="omnateeta" />
