@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Omnateeta V U
 
 💻 Passionate about Full Stack Web Development  
-🌱 Currently pursuing my B.E. in Computer Science Engineering  
+🌱 Currently pursuing my B.E. in Computer Science Engineering (CSE)
 🚀 Learning and building real-world web development projects  
 🤝 Open to collaborating on Full Stack and Web Development Projects  
 📫 Reach me at: **omnateeta3@gmail.com**  
