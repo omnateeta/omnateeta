@@ -1,42 +1,92 @@
-<h1 align="center">Hi 👋, I'm Omnateeta V U</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hey 👋, I'm Omnateeta V U</h1>
+<h3 align="center">🚀 Full Stack Developer | AI & ML Enthusiast | Problem Solver from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omnateeta&label=Profile%20views&color=0e75b6&style=flat" alt="omnateeta" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omnateeta" alt="omnateeta" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **AIML (College Project)**
-
-- 🌱 I’m currently learning **Deep Learning, Integrated with AIML**
-
-- 👯 I’m looking to collaborate on **Mearn Stack Project**
-
-- 🤝 I’m looking for help with **Product based companies**
-
-- 👨‍💻 All of my projects are available at [https://omnateeta-portfolio.vercel.app/](https://omnateeta-portfolio.vercel.app/)
-
-- 📝 I regularly write articles on [https://linkedin.com/in/omnateeta-v-unnimath-0b815b338](https://linkedin.com/in/omnateeta-v-unnimath-0b815b338)
-
-- 💬 Ask me about **Hackathon Compeations**
-
-- 📫 How to reach me **omnateeta3@gmail.com**
-
-- ⚡ Fun fact **What I think I can do**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/omnateeta-v-unnimath-0b815b338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/omnateeta-v-unnimath-0b815b338" height="30" width="40" /></a>
-<a href="https://instagram.com/mr.omnateeta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.omnateeta" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@mr.omnateeta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mr.omnateeta" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Explorer;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Things+✨" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omnateeta&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="omnateeta" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omnateeta&show_icons=true&locale=en&layout=compact" alt="omnateeta" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omnateeta&show_icons=true&locale=en" alt="omnateeta" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omnateeta&" alt="omnateeta" /></p>
+- 🔭 Currently working on **AI/ML Based College Projects**
+- 🌱 Learning **Deep Learning, System Design & Advanced MERN Stack**
+- 👨‍💻 Building **real-world full stack applications**
+- 🤝 Looking to collaborate on **Open Source & MERN Projects**
+- 🎯 Goal: **Become a skilled Software Engineer**
+- 💬 Ask me about **React, JavaScript, Hackathons & Web Development**
+- ⚡ Fun fact: **I believe consistency beats talent 💯**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/omnateeta-v-unnimath-0b815b338" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+<a href="https://instagram.com/mr.omnateeta" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="45" />
+</a>
+<a href="https://www.youtube.com/@mr.omnateeta" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" height="45" />
+</a>
+<a href="mailto:omnateeta3@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="45" />
+</a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,django,tailwind,bootstrap,firebase,git,github,vscode,figma" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omnateeta&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omnateeta&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omnateeta&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=omnateeta&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+</p>
+
+---
+
+## 🌟 Featured Portfolio
+
+🔗 **Portfolio:**  
+[https://omnateeta-portfolio.vercel.app/](https://omnateeta-portfolio.vercel.app/)
+
+📝 **LinkedIn Articles & Posts:**  
+[https://linkedin.com/in/omnateeta-v-unnimath-0b815b338](https://linkedin.com/in/omnateeta-v-unnimath-0b815b338)
+
+---
+
+## ✨ Quote I Believe In
+
+> “Keep building, keep learning, and success will follow.” 🚀
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=120&section=footer"/>
+</p>
