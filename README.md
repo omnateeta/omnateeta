@@ -67,12 +67,7 @@
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=omnateeta&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    alt="GitHub Streak"
-  />
-</p>
+
 
 ---
 
