@@ -29,12 +29,15 @@
 <a href="https://linkedin.com/in/omnateeta-v-unnimath-0b815b338" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
+
 <a href="https://instagram.com/mr.omnateeta" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=instagram" height="45" />
 </a>
+
 <a href="https://www.youtube.com/@mr.omnateeta" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" height="45" />
 </a>
+
 <a href="mailto:omnateeta3@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="45" />
 </a>
@@ -53,12 +56,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omnateeta&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omnateeta&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=omnateeta&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    height="180em"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=omnateeta&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    height="180em"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omnateeta&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://streak-stats.demolab.com?user=omnateeta&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
@@ -66,7 +79,9 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omnateeta&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=omnateeta&theme=tokyonight&no-frame=true&margin-w=10&row=1" 
+  />
 </p>
 
 ---
@@ -78,6 +93,16 @@
 
 📝 **LinkedIn Articles & Posts:**  
 [https://linkedin.com/in/omnateeta-v-unnimath-0b815b338](https://linkedin.com/in/omnateeta-v-unnimath-0b815b338)
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=omnateeta&theme=tokyo-night&hide_border=true" 
+  />
+</p>
 
 ---
 
