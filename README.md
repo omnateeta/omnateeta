@@ -99,14 +99,9 @@
   />
 </p>
 
----
-
 ## ✨ Quote I Believe In
 
 > “Keep building, keep learning, and success will follow.” 🚀
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=120&section=footer"/>
 </p>
