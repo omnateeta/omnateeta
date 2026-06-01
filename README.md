@@ -14,7 +14,7 @@
 ## 🚀 About Me
 
 - 🔭 Currently working on **AI/ML Based College Projects**
-- 🌱 Learning **Deep Learning, System Design & Advanced MERN Stack**
+- 🌱 Learning **Deep Learning, System Design & Advanced MERN Stack Integrated with AI**
 - 👨‍💻 Building **real-world full stack applications**
 - 🤝 Looking to collaborate on **Open Source & MERN Projects**
 - 🎯 Goal: **Become a skilled Software Engineer**
