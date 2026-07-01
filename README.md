@@ -4,7 +4,7 @@
 
 <div align="center">
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+Student;Full+Stack+Developer+(MERN);AI+%26+ML+Explorer+(RAG+Models);Tech+Content+Creator+%26+Hackathon+Advocate" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+Student;Full+Stack+Developer+(MERN);AI+%26+ML+Explorer+(RAG+Models);Tech+Content+Creator+%26+Hackathon+Advocate" alt="Typing SVG" />
   </p>
   <p align="center">
     <a href="https://github.com/omnateeta">
@@ -65,7 +65,7 @@
 ## 📊 GitHub Analytics & Stats
 <div align="center">
   <!-- Real-time Streak Counter -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omnateeta&theme=tokyonight&hide_border=true&stroke=0000" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=omnateeta&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 <br>
 <div align="center">
