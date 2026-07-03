@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=200&section=header&text=Hello%20World!%20I'm%20Omnateeta&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI/ML%20Enthusiast&descAlignY=55&descAlign=50" alt="Header" width="100%" />
 </div>
 
-<div align="center">
-  <p align="center">
+<div align="center >
+  <p align="center"> 
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+Student;Full+Stack+Developer+(MERN);AI+%26+ML+Explorer+(RAG+Models);Tech+Content+Creator+%26+Hackathon+Advocate" alt="Typing SVG" />
   </p>
   <p align="center">
