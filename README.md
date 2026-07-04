@@ -65,7 +65,7 @@
 ## 📊 GitHub Analytics & Stats
 <div align="center">
   <!-- Real-time Streak Counter -->
-  <img src="https://streak-stats.demolab.com/?user=omnateeta&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=omnateeta&theme=tokyonight&hide_border=true&cache_seconds=1" />
 </div>
 <br>
 <div align="center">
