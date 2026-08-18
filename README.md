@@ -79,6 +79,7 @@
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=omnateeta&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=7" alt="GitHub Trophies" />
+  [![Participants Badge](https://devsprint-lime.vercel.app/api/badge/participant-23.svg)](https://devsprint-lime.vercel.app/verify/participant-23)
 </div>
 
 ---
