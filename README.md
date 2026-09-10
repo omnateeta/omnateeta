@@ -12,9 +12,6 @@
     </a>
   </p>
 </div>
-
----
-
 <table align="center" width="100%" border="0">
   <tr>
     <td width="60%" valign="top">
