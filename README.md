@@ -3,19 +3,19 @@
 </div>
 
 <div align="center">
-  <p align="center">   
+  <p align="center">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+Student;Full+Stack+Developer+(MERN);AI+%26+ML+Explorer+(RAG+Models);Tech+Content+Creator+%26+Hackathon+Advocate" alt="Typing SVG" />
   </p>. 
   <p align="center">
     <a href="https://github.com/omnateeta">
       <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=omnateeta&label=Profile%20Views&color=00C2FF&style=for-the-badge&logo=github">
     </a>
-  </p>
+  </p> 
 </div>
-<table align="center" width="100%" border="0">
+<table align="center" width="100%" border="0"> 
   <tr>
     <td width="60%" valign="top">
-      <h2>🚀 About Me</h2>
+      <h2>🚀 About Me</h2> 
       <p>I am a third-year Computer Science and Engineering student from India, passionate about building scalable web applications and exploring the frontiers of Artificial Intelligence.</p>
       <ul>
         <li>🎓 Pursuing my B.Tech in <strong>Computer Science and Engineering</strong>.</li>
