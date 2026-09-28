@@ -1,3 +1,4 @@
+//title should be added for home page description
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=200&section=header&text=Hello%20World!%20I'm%20Omnateeta&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI/ML%20Enthusiast&descAlignY=55&descAlign=50" width="100%" alt="Header"/>
@@ -38,21 +39,12 @@ I am a **Final Year Computer Science and Engineering student** from India, passi
 <a href="https://linkedin.com/in/omnateeta-v-unnimath-0b815b338">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
 </a>
-
-   
-
 <a href="https://www.youtube.com/@mr.omnateeta">
 <img src="https://skillicons.dev/icons?i=youtube" height="45" alt="YouTube"/>
 </a>
-
-   
-
 <a href="https://instagram.com/mr.omnateeta">
 <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram"/>
 </a>
-
-   
-
 <a href="mailto:omnateeta3@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email"/>
 </a>
