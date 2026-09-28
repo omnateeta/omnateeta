@@ -175,8 +175,6 @@ A student-focused platform designed to help students from Tier-2 and Tier-3 coll
 
 </div>
 
----
-
 ## ✨ Quote I Believe In
 
 <div align="center">
