@@ -1,4 +1,4 @@
-/*title should be added for home page description*/
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=200&section=header&text=Hello%20World!%20I'm%20Omnateeta&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI/ML%20Enthusiast&descAlignY=55&descAlign=50" width="100%" alt="Header"/>
