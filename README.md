@@ -101,8 +101,6 @@ I am a **Final Year Computer Science and Engineering student** from India, passi
 
 </div>
 
----
-
 ## 📌 Featured Work
 
 ### 🚀 NEXORA
@@ -125,8 +123,6 @@ A student-focused platform designed to help students from Tier-2 and Tier-3 coll
 
 </div>
 
----
-
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -138,9 +134,6 @@ A student-focused platform designed to help students from Tier-2 and Tier-3 coll
 </a>
 
 </div>
-
----
-
 ## 📈 GitHub Contributions
 
 <div align="center">
@@ -152,8 +145,6 @@ A student-focused platform designed to help students from Tier-2 and Tier-3 coll
 </a>
 
 </div>
-
----
 
 ## 🥇 DevSprint
 
