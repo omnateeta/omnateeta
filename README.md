@@ -14,9 +14,6 @@
 </a>
 
 </div>
-
----
-
 ## 🚀 About Me
 
 I am a **Final Year Computer Science and Engineering student** from India, passionate about building scalable web applications and exploring Artificial Intelligence and Machine Learning.
@@ -29,9 +26,6 @@ I am a **Final Year Computer Science and Engineering student** from India, passi
 * 🎥 Creating **tech, engineering, hackathon and student-life content**
 * 🌱 Learning, building and experimenting with new technologies
 * ⚡ **Consistency beats talent 💯**
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
