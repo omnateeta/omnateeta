@@ -7,7 +7,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Final+Year+Computer+Science+%26+Engineering+Student;Full+Stack+Developer+(MERN);AI+%26+ML+Explorer+(RAG+Models);Tech+Content+Creator+%26+Hackathon+Advocate" alt="Typing SVG"/>
 
-<br><br> 
+<br><br>       
 
 <a href="https://github.com/omnateeta">
 <img src="https://komarev.com/ghpvc/?username=omnateeta&label=Profile%20Views&color=00C2FF&style=for-the-badge" alt="Profile Views"/>
